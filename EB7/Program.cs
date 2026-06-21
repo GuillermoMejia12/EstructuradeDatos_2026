@@ -43,7 +43,7 @@ namespace EB7_Recursividad
 
                     case "3":
                         ejecutanado = false;
-                        Console.WriteLine("Saliendo de la aplicación. Siuu.");
+                        Console.WriteLine("Saliendo de la aplicación. Siuuu.");
                         break;
 
                     default:
